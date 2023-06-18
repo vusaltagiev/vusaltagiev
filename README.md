@@ -7,7 +7,7 @@ Front End Developer
 * 🌍  I'm based in Stockholm
 * 🖥️  See my portfolio at [Vüsal Tagiev](http://vusal.online)
 * ✉️  You can contact me at [vusal@hotmail.com](mailto:vusal@hotmail.com)
-* 🧠  I'm learning NodeJS
+* 🧠  I'm learning React
 
 ### Skills
 
