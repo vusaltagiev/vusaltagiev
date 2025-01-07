@@ -5,7 +5,7 @@ Junior Front End Developer
 -------------------
 
 * 🌍  I'm based in Stockholm
-* 🖥️  See my portfolio at [Vüsal Tagiev](http://vusal.online)
+* 🖥️  See my portfolio at [Vüsal Tagiev](https://vusaltagiev.com/)
 * ✉️  You can contact me at [vusal@hotmail.com](mailto:vusal@hotmail.com)
 * 🧠  I'm learning React
 
