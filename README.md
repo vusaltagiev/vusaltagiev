@@ -1,4 +1,4 @@
-Hi 👋 My name is Vüsal Tagiev
+Hi 👋 My name is Vüsal Alexander Tagiev
 =============================
 
 Junior Front End Developer
